@@ -62,7 +62,7 @@
             <div class="col-sm-5  col-sm-offset-2">
               <h4>say hello</h4>
               <p>Want to chat about a project or just say hi? Send us a note!</p><br>
-              <form  class="col-sm-10 col-md-12 contact"role="form">
+              <form  class="col-sm-10 col-md-12 contact" action="../php/mail-engine.php"role="form">
                 <div class="form-group">
                   <input type="name" class="form-control required" id="name" placeholder="Name">
                 </div>
