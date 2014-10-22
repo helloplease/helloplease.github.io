@@ -6,18 +6,17 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>helloplease</title>
+        <title>hello please</title>
         <meta name="keywords" content="hello please, graphic design, communication design, web design, freelance design, design, chicago design">
         <meta name="description" content="Design">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="./css/bootstrap.css">
-        <link rel="stylesheet" href="./css/main.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/main.css">
 
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
-        <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
     </head>
- <body class='home-page'>
+ <body class="home-page">
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
@@ -59,29 +58,83 @@
 
         </div>
 
-              </div> </div>
+              </div> 
+            <div class="col-sm-5  col-sm-offset-2">
+              <h4>say hello</h4>
+              <p>Want to chat about a project or just say hi? Send us a note!</p><br>
+              <form  class="col-sm-10 col-md-12 contact"role="form">
+                <div class="form-group">
+                  <input type="name" class="form-control required" id="name" placeholder="Name">
+                </div>
+                <div class="form-group">
+                  <input type="email" class="form-control required" id="email" placeholder="Email">
+                </div>
+                 <div class="form-group">
+                  <input type="tel" class="form-control" id="tel" placeholder="Telephone">
+                </div>
+                <div class="form-group">
 
-        <div class="row-fluid">
-        <div class="col-md-2 project-nav">
-              <ul class="">
-               <li><p><a href="works/frc-viewbook.html">FRC Viewbook</a></p></li>
-                <li><p><a href="works/one-two-three.html">Parlour Tapes</a></p></li>
-                <li><p><a  href="works/prismatic-nature.html">Prismatic Nature</a></p></li>
-               <li><p><a href="works/fnews.html">F Newsmagazine</a></p></li>
-
-              </ul>
-                      </div>
-              
+                <textarea class="form-control" placeholder="Type a nice message" rows="5"></textarea>
+            </div>
+                <a type="form-submit" class="" href="#">Submit</a>
+              </form>
+              <p id="error"></p>
             </div>
         </div>
           
   
       </div><!--end title column-->
 
+<!-- javascript for form -->
+      <script type="text/javascript">
+      
+       $(document).ready(function(){
+        
+        $("a.form-submit").on("click", function(e){
+            e.preventDefault();
+            var check = true;
+            var error = false;
+            
+            $('#error').html('');
+            $('.missing').removeClass(" missing");
+                
+            $('.required').each(function(){
+                if (this.value == "") {
+                    check = false;
+                    $(this).addClass(" missing");
+                    if (!error){
+                        $('#error').html($('#error').html() + 'Please fill out the required fields above.<br/>');
+                        error = true;
+                    };
+                };
+            });
 
-  <script src="jquery/jquery-2.1.0.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
+            if (check){
+                document.forms[0].submit(); 
+                $('#error').html($('#error').html() + 'We have received your message. Thank you.<br/>');
+            
+            } else {
+                return false;
+            };
+        
+        });
+    }); 
+    </script>
 
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+        <script type="text/javascript">
+        $(document).ready(function(){
+            $("#myNav").affix({
+                offset: { 
+                    top: 190 
+                }
+            });
+        });
+        </script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>
