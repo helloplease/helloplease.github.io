@@ -1,11 +1,9 @@
 ---
 layout: home
 ---
+<div class="post row-fluid">
 
-<div class="home">
-
- <div class="row-fluid">
- <div class="col-md-2 project-nav">
+<div class="col-md-2 project-nav">
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -16,5 +14,12 @@ layout: home
   </ul>
 
 </div>
+
+<div class="col-md-6 col-sm-6 col-lg-5">
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
 </div>
 </div>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>helloplease</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://helloplease.github.io/</link>
+    <atom:link href="http://helloplease.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 23 Oct 2014 22:25:20 -0500</pubDate>
+    <lastBuildDate>Thu, 23 Oct 2014 22:25:20 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>FRC Viewbook</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-10 col-md-12 col-sm-12 project-img top-image&quot;&gt;
+     &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/frc_2_web.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt; 
+&lt;div class=&quot;col-lg-5 col-sm-6 col-md-6 project-description&quot;&gt;
+    &lt;h3&gt;&lt;strong&gt;SAIC Fashion Resource Center&lt;/strong&gt;&lt;/h3&gt;
+        &lt;p&gt;For this take-away viewbook, helloplease worked with the School of the Art Institute of Chicago&#39;s Fashion Resource Center to create a unique glimpse into their rich collection. Careful consideration of meteriality and form, in addition to typography bring this view to life.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-5 col-md-6 col-sm-6 project-img&quot;&gt;
+    &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/frc_5_web.jpg&quot; /&gt;
+&lt;/div&gt;
+      
+&lt;div class=&quot;col-lg-5 col-md-6 col-sm-6 col-md-offset-6 col-sm-offset-6 col-lg-offset-5 project-img&quot;&gt;
+	&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/frc_6_web.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-lg-5 col-md-6 col-sm-6  project-img&quot;&gt;
+    &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/frc_9_web.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-lg-10 col-md-12 col-sm-12 project-img&quot;&gt;
+   	&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/frc_10_web.jpg&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 23 Oct 2014 13:42:37 -0500</pubDate>
+        <link>http://helloplease.github.io/frc-viewbook/</link>
+        <guid isPermaLink="true">http://helloplease.github.io/frc-viewbook/</guid>
+        
+        
+        <category>print</category>
+        
+      </item>
+    
+      <item>
+        <title>F Newsmagazine</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-10 col-md-12 col-sm-12 project-img top-image&quot;&gt;
+     &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/fnews01.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt; 
+&lt;div class=&quot;col-lg-5 col-sm-6 col-md-6 project-description&quot;&gt;
+    &lt;h3&gt;&lt;strong&gt;fnewsmagazine&lt;/strong&gt;&lt;/h3&gt;
+        &lt;p&gt;
+        	a student-run journal of art criticism, culture, and politics. ALSO, the first time chris, magda &amp;amp; freddy worked together.
+        &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-5 col-md-6 col-sm-6 project-img&quot;&gt;
+    &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/fnews02.jpg&quot; /&gt;
+&lt;/div&gt;
+      
+&lt;div class=&quot;col-lg-5 col-md-6 col-sm-6 col-md-offset-6 col-sm-offset-6 col-lg-offset-5 project-img&quot;&gt;
+	&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/fnews03.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-lg-5 col-md-6 col-sm-6  project-img&quot;&gt;
+    &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/fnews04.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 23 Oct 2014 13:41:37 -0500</pubDate>
+        <link>http://helloplease.github.io/fnews/</link>
+        <guid isPermaLink="true">http://helloplease.github.io/fnews/</guid>
+        
+        
+        <category>print</category>
+        
+      </item>
+    
+      <item>
+        <title>One Two Three</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-10 col-md-12 col-sm-12 project-img top-image&quot;&gt;
+     &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/PT-documentation-04-141012.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt; 
+&lt;div class=&quot;col-lg-5 col-sm-6 col-md-6 project-description&quot;&gt;
+    &lt;h3&gt;&lt;strong&gt;One Two Three&lt;/strong&gt;&lt;/h3&gt;
+    &lt;p&gt;
+        Experimental packaging design for Tim Munro&#39;s first solo-album, released by our friends at Parlour Tapes. The design includes nine cards which assemble into at least 4 different posters, celebrating Munro&#39;s own methodical fragmented exploration in each of the tracks
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-5 col-md-6 col-sm-6 project-img&quot;&gt;
+    &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/PT-documentation-05-141012.jpg&quot; /&gt;
+&lt;/div&gt;
+      
+&lt;div class=&quot;col-lg-5 col-md-6 col-sm-6 &quot;&gt;
+	&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/PT-mockup-one-two-three-141012.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;col-lg-10 col-md-12 col-sm-12 project-img&quot;&gt;
+	&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/PT-documentation-03-141012.jpg&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 23 Oct 2014 13:39:37 -0500</pubDate>
+        <link>http://helloplease.github.io/one-two-three/</link>
+        <guid isPermaLink="true">http://helloplease.github.io/one-two-three/</guid>
+        
+        
+        <category>packaging</category>
+        
+      </item>
+    
+      <item>
+        <title>Prismatic Nature</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-5 col-md-6 col-sm-6 project-img top-image&quot;&gt;
+     &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/eam_1.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt; 
+&lt;div class=&quot;col-lg-5 col-sm-6 col-md-6 project-description&quot;&gt;
+    &lt;h3&gt;&lt;strong&gt;prismatic nature&lt;/strong&gt;&lt;/h3&gt;
+    &lt;p&gt;
+        Prismatic Nature is the title of an exhibition at Elmhurst Art Museum by artist-in-residence, Heidi Norton. Heidi Norton is a distinguished professor at the School of the Art Institute of Chicago. Dealing with mainly in sculpture and photography, Norton&#39;s work juxtaposes natural and built forms.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+
+
+&lt;div class=&quot;col-lg-5 col-md-6 col-sm-6 col-xs-6 col-xs-offset-6 col-lg-offset-5 col-md-offset-6 col-sm-offset-6  project-img&quot;&gt;
+    &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/eam_2.jpg&quot; /&gt;
+&lt;/div&gt;
+      
+&lt;div class=&quot;col-lg-5 col-md-6 col-sm-6 col-xs-6 col-xs-offset-0 col-md-offset-0 col-sm-offset-0 project-img  &quot;&gt;
+	&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/eam_4.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-5 col-sm-6 col-md-6 project-description&quot;&gt;
+    &lt;p&gt;
+        Norton&#39;s exhibition acts in relation to the museum&#39;s historical conceit, itself an architectural homage to Mies van der Rohe and the impact of modernist style on the Illinois landscape. The booklet was created as a companion to the show, part journal and part field guide——it outlines the conceptual and physical experience of the space, complete with found imagery, artistic documentation, and maps.
+    &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-lg-10 col-md-12 col-sm-12 project-img&quot;&gt;
+	&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/eam_3.jpg&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 23 Oct 2014 13:38:37 -0500</pubDate>
+        <link>http://helloplease.github.io/prismatic-nature/</link>
+        <guid isPermaLink="true">http://helloplease.github.io/prismatic-nature/</guid>
+        
+        
+        <category>print</category>
+        
+      </item>
+    
+  </channel>
+</rss>

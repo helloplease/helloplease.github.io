@@ -1,0 +1,43 @@
+<header class="site-header">
+
+
+    <div class="container-fluid main-container "> 
+      <!--main content-->
+      <div class="row-fluid main-nav">
+          <div class="col-sm-6 col-md-6 col-lg-6 b-pad-5"><!--title column-->
+            
+           
+              <button class="navbar-toggle hidden-sm hidden-md hidden-lg" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+        
+          <a href="{{site.baseurl}}" class="hello-logo">helloplease</a>
+            </div>
+          
+         </div>
+    <div class="row b-pad-5">
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+      
+
+                <div class="col-sm-5 col-sm-offset-1 col-md-4 col-md-offset-2 col-lg-3 col-lg-offset-3"><!--title column-->
+                  <div class="trigger">
+                          {% for page in site.pages %}
+                            {% if page.categories contains 'nav' %}
+                             <div class="col-md-4 col-sm-4">
+                                        <a  class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                              </div>
+                            {% endif %}
+                          {% endfor %}
+                  </div>
+                </div>
+              </div>
+        </div>
+    </div><!-- /.navbar-collapse -->
+
+      
+
+
+</header>
