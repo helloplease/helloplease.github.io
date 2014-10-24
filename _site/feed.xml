@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 23 Oct 2014 23:34:23 -0500</pubDate>
-    <lastBuildDate>Thu, 23 Oct 2014 23:34:23 -0500</lastBuildDate>
+    <pubDate>Fri, 24 Oct 2014 09:09:29 -0500</pubDate>
+    <lastBuildDate>Fri, 24 Oct 2014 09:09:29 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -178,6 +178,47 @@
         
         
         <category>print</category>
+        
+      </item>
+    
+      <item>
+        <title>Public Art Library</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-10 col-md-12 col-sm-12 project-img &quot;&gt;
+     &lt;img class=&quot;img-responsive &quot; src=&quot;/assets/ChiPAL_2.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt; 
+&lt;div class=&quot;col-lg-5 col-sm-6 col-md-6 project-description&quot;&gt;
+    &lt;h3&gt;&lt;strong&gt;Chicago Public Art Library&lt;/strong&gt;&lt;/h3&gt;
+    &lt;p&gt;
+        The Chicago Public Art Library is an open-source, community-run, digital resource for discovering public art in Chicago, made in collaboration with artist Jan Tichy. The identity and layout systems were created in response to the geometric street grid of Chicago, and are incredibly flexible while representing one of our city&#39;s quintessential traits. This is still a work in progress. More coming soon!
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-5 col-md-6 col-sm-6 project-img&quot;&gt;
+    &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/ChiPAL_1.jpg&quot; /&gt;
+&lt;/div&gt;
+      
+&lt;div class=&quot;col-lg-5 col-md-6 col-sm-6 &quot;&gt;
+	&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/ChiPAL_3.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;col-lg-10 col-md-12 col-sm-12 project-img&quot;&gt;
+	&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/ChiPAL_7.jpg&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 23 Oct 2014 13:38:37 -0500</pubDate>
+        <link>/chipal/</link>
+        <guid isPermaLink="true">/chipal/</guid>
+        
+        
+        <category>web</category>
         
       </item>
     
