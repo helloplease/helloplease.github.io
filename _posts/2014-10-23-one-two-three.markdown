@@ -7,8 +7,8 @@ categories: packaging
 ---
 
 <div class="row">
-<div class="col-lg-10 col-md-12 col-sm-12 project-img top-image">
-     <img class="img-responsive" src="/assets/PT-documentation-04-141012.jpg">
+<div class="col-lg-10 col-md-12 col-sm-12 project-img ">
+     <img class="img-responsive " src="/assets/PT-documentation-04-141012.jpg">
 </div>
 </div>
 

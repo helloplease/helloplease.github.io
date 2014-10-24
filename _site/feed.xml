@@ -6,8 +6,8 @@
 </description>
     <link>http://helloplease.github.io/</link>
     <atom:link href="http://helloplease.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 23 Oct 2014 22:30:55 -0500</pubDate>
-    <lastBuildDate>Thu, 23 Oct 2014 22:30:55 -0500</lastBuildDate>
+    <pubDate>Thu, 23 Oct 2014 23:03:19 -0500</pubDate>
+    <lastBuildDate>Thu, 23 Oct 2014 23:03:19 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -56,7 +56,7 @@
         <title>F Newsmagazine</title>
         <description>&lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;col-lg-10 col-md-12 col-sm-12 project-img top-image&quot;&gt;
-     &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/fnews01.jpg&quot; /&gt;
+     &lt;img class=&quot;img-responsive top-image&quot; src=&quot;/assets/fnews01.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -95,8 +95,8 @@
       <item>
         <title>One Two Three</title>
         <description>&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-lg-10 col-md-12 col-sm-12 project-img top-image&quot;&gt;
-     &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/PT-documentation-04-141012.jpg&quot; /&gt;
+&lt;div class=&quot;col-lg-10 col-md-12 col-sm-12 project-img &quot;&gt;
+     &lt;img class=&quot;img-responsive &quot; src=&quot;/assets/PT-documentation-04-141012.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 

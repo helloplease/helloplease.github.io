@@ -8,7 +8,7 @@ categories: print
 
 <div class="row">
 <div class="col-lg-10 col-md-12 col-sm-12 project-img top-image">
-     <img class="img-responsive" src="/assets/fnews01.jpg">
+     <img class="img-responsive top-image" src="/assets/fnews01.jpg">
 </div>
 </div>
 

@@ -15,17 +15,21 @@ padding-top: 1%;
  }
 
  .home-page{
+ 	margin-top:0px;
  	background-color: #94EB94;
  }
 
 a{
 	text-decoration: none;
 	color:#000;
+	font-size: 14px;
 }
 
 a:hover{
 	text-decoration: underline;
 	color:#94EB94;
+		font-size: 14px;
+
 }
 .home-page a:hover{
 	text-decoration: none;
@@ -66,7 +70,7 @@ li{
 	background-color: #000;
 }
 p{
-	font-size: 13px;
+	font-size: 14px;
 	line-height:18px;
 
 }
@@ -111,7 +115,7 @@ list-style-type: none;
 }
 
 .top-image{
-	padding-top:0%;
+	padding:0px;
 }
 
 /*FORMS*/
@@ -122,6 +126,7 @@ list-style-type: none;
 /*Project Pages*/
 .project-description{
 	padding-bottom:2.5%;
+
 }
 
 
@@ -165,6 +170,8 @@ padding:0px;
 }
 
 .navbar-collapse{
+
+	margin-left:0px;
 
 }
 

@@ -11,7 +11,7 @@ categories: nav
 
 <form class="col-sm-10 col-md-12 contact" action="http://getsimpleform.com/messages?form_api_token=ed716dc5a03aa8c84d659d595fd6ed31" method="post">
     <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-    <input type='hidden' name='redirect_to' value='{{site.baseurl}}/thank-you-come-again/' />
+    <input type='hidden' name='redirect_to' value='http://helloplease.me/thank-you-come-again/' />
     <!-- all your input fields here.... -->
     <div class="form-group">
       <input type="text" class="form-control required" name="name" placeholder="Name">
