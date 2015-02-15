@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eclipse"
+title:  "F Newsmagazine"
 date:   2015-02-14 23:41:37
 permalink: /eclipse/
 categories: identity
